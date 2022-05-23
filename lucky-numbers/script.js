@@ -20,3 +20,5 @@ function errorMessage(input) {
     } 
     return ((isNaN(input)) || (input == 0)) ? 'Must be a number besides 0' : '';
   }
+
+// *****************************************************
