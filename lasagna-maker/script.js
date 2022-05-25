@@ -1,4 +1,4 @@
-// Exercism - High Score Board
+// Exercism - Lasagna Maker
 
 // Task 1 - Determine whether the lasagna is done
 
