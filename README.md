@@ -1,8 +1,8 @@
 # javascript-exercises
 
-amausement park => null and undefined
-high score board => objects
-lasagna maker => functions
-lucky numbers => type conversion
-mixed juices => while loops and switch statements
-custom signs => template strings and ternary operator
+amausement park => null and undefined<br />
+high score board => objects<br />
+lasagna maker => functions<br />
+lucky numbers => type conversion<br />
+mixed juices => while loops and switch statements<br />
+custom signs => template strings and ternary operator<br />
